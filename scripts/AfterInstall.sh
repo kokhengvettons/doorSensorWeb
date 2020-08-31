@@ -3,7 +3,7 @@
 #### Install Modules
 
 cd /home/app/doorSensor/
-npm Install
+npm install
 
 
 
